@@ -1,0 +1,17 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "File Metadata Microservice project for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayo Isaiah",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  },
+  "engines": {
+    "node": "10.9.0"
+  }
+}
